@@ -1,6 +1,6 @@
 header {
     background-image: 
-        linear-gradient(rgba(0, 0, 0, 0.333)),
+        linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
         url(../img/home-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -11,6 +11,10 @@ header {
 }
 h1 {
     font-size: 80px;
-    font-weight: 700;
+    font-weight: bolder;
+    color: #fff;
+}
+p {
+    font-size: 24px;
     color: #fff;
 }
