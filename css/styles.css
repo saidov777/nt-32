@@ -1,0 +1,16 @@
+header {
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.333)),
+        url(../img/home-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.site-heading {
+    padding: 200px 0;
+}
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    color: #fff;
+}
